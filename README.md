@@ -27,7 +27,7 @@ I focus on developing responsive, pixel-perfect designs, optimizing performance,
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/l_dimas_l2)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytrokovaliak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/dmytro-kovaliak-a21a88274/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-kovaliak-a21a88274/)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
